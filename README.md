@@ -18,5 +18,10 @@ node node_modules/@alexjv89/bulkrun --file="temp/bulk_run/movement_FY2023-24.txt
 - `--sleep` - sleep time in seconds between execution of each line
 
 ## Others
-github repo - https://github.com/alexjv89/bulkrun
-npm - https://www.npmjs.com/package/@alexjv89/bulkrun
+- github repo - https://github.com/alexjv89/bulkrun
+- npm - https://www.npmjs.com/package/@alexjv89/bulkrun
+
+## Publish
+```
+npm publish --access=public
+```
