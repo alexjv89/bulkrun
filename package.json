@@ -1,6 +1,6 @@
 {
-  "name": "bulkrun",
-  "version": "1.0.0",
+  "name": "@alexjv89/bulkrun",
+  "version": "1.1.0",
   "description": "bulkrun commands from terminal",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/alexjv89/bulkrun/issues"
   },
-  "homepage": "https://github.com/alexjv89/bulkrun#readme"
+  "homepage": "https://github.com/alexjv89/bulkrun#readme",
+  "dependencies": {
+    "command-line-args": "^5.2.1",
+    "shelljs": "^0.8.5"
+  }
 }
